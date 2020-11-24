@@ -7,6 +7,9 @@
 03. Custom Toast with Toasy(https://github.com/GrenderG/Toasty)
 04. Snack Bar( Material Design: https://material.io/develop/android/docs/getting-started)
 
+# Same Project in Kotlin language
+https://github.com/KhairuI/Kotlin-Android/tree/Class_Two
+
 # Reference Projects
 01. MVVM CRUD & Search with Firestore in Java: https://github.com/KhairuI/MVVM_CRUD_Search_with_Firestore
 02. MVVM_With_Volly: https://github.com/KhairuI/MVVM_With_Volly
